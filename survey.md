@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: blue 
+Favorite food: kobeh
+Favorite musician/band: Queen
+Favorite movie: Doctor Strange
+Requested grade in the course: 101
